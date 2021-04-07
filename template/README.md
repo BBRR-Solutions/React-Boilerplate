@@ -1,4 +1,4 @@
-# BBRR Solutions React Boilerplate
+# create-react-app-bbrrsolutions
 
 ## Description
 
