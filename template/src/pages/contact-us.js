@@ -1,5 +1,7 @@
 import "./body.css";
 
+import GoToTop from "../assets/scripts/go-to-top";
+
 export default function Contactus() {
   return (
     <div className='body'>
@@ -19,6 +21,7 @@ export default function Contactus() {
         Please enjoy our version of create-react-app and share your ideas at{" "}
         <a href='mailto:support@bbrr.solutions'>support@bbrr.solutions</a>
       </p>
+      <GoToTop />
     </div>
   );
 }
