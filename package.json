@@ -1,6 +1,6 @@
 {
   "name": "cra-template-bbrrsolutions",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "keywords": [
     "create-react-app",
     "react",
@@ -10,11 +10,11 @@
   "description": "BBRR Solutions create-react-app template.",
   "repository": {
     "type": "git",
-    "url": "https://dev.azure.com/BBRRSolutions/BBRR%20DevOps/_git/React%20Boilerplate"
+    "url": "https://dev.azure.com/BBRRSolutions/BBRR%20Public%20Projects/_git/React%20Boilerplate"
   },
   "author": {
     "name": "BBRR Solutions",
-    "email": "information@bbrr.solutions",
+    "email": "informacion@bbrr.solutions",
     "website": "https://www.bbrr.solutions",
     "team-members": [
       {
