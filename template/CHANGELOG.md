@@ -6,6 +6,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [1.2.0] - 09-04-21
+
+Formatting of JS files
+Movement of global css files to public folder
+
 ## [1.1.0] - 05-07-21
 
 ## Added
