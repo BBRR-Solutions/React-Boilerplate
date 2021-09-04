@@ -1,8 +1,8 @@
-import "./footer.css";
+import "./Footer.css";
 
 export default function Footer() {
   return (
-    <div className='footer'>
+    <div className="footer">
       <p>Contact us at:</p>
       <p>+52 (686) 568-6480</p>
       <p>+52 (686) 337-1694</p>

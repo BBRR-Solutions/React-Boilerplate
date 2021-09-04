@@ -11,7 +11,8 @@
   border-radius: 10px;
   width: 105px;
 }
-.std_button:hover, .std_button:focus {
+.std_button:hover,
+.std_button:focus {
   background-color: rgb(7, 194, 7);
   outline: none;
 }
