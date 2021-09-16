@@ -1,6 +1,6 @@
 import "./Body.css";
 
-import GoToTop from "../assets/scripts/go-to-top";
+import GoToTop from "../assets/scripts/GoToTop";
 
 export default function Home() {
   return (

@@ -1,18 +1,18 @@
 import "./Body.css";
 
-import GoToTop from "../assets/scripts/go-to-top";
+import GoToTop from "../assets/scripts/GoToTop";
 
 export default function ContactUs() {
   return (
     <div className="body">
       <p>
-        For more projects visit our website at{" "}
-        <a href="https://dev.bbrr.solutions">dev.bbrr.solutions</a>
+        Visit our website at{" "}
+        <a href="https://www.bbrr.solutions">www.bbrr.solutions</a>
       </p>
       <br />
       <p>
         See also the repository for <b>BBRR Solutions CRA Template</b> at{" "}
-        <a href="https://dev.azure.com/BBRRSolutions/BBRR%20DevOps/_git/React%20Boilerplate">
+        <a href="https://github.com/BBRR-Solutions/React-Boilerplate">
           React Boilerplate
         </a>
       </p>

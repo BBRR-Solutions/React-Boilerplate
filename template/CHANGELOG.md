@@ -6,6 +6,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [1.2.1] - 09-16-21
+
+Addition of useFetch custom hook
+Migration of repository to Github
+
 ## [1.2.0] - 09-04-21
 
 Formatting of JS files

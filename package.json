@@ -10,7 +10,7 @@
   "description": "BBRR Solutions create-react-app template.",
   "repository": {
     "type": "git",
-    "url": "https://dev.azure.com/BBRRSolutions/BBRR%20Public%20Projects/_git/React%20Boilerplate"
+    "url": "https://github.com/BBRR-Solutions/React-Boilerplate"
   },
   "author": {
     "name": "BBRR Solutions",
