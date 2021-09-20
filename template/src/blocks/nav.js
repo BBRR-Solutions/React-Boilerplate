@@ -1,12 +1,12 @@
 import "./Nav.css";
 
-import Stdbtn from "../components/StdBtn";
+import NavBtn from "../components/NavBtn";
 
 export default function Nav() {
   return (
     <div className="nav">
-      <Stdbtn button_text="Home" button_path="/" />
-      <Stdbtn button_text="Contact us" button_path="/Contact-us" />
+      <NavBtn button_text="Home" button_path="/" />
+      <NavBtn button_text="Contact us" button_path="/Contact-us" />
     </div>
   );
 }

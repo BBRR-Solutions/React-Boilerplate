@@ -6,6 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [1.2.3] - 09-20-21
+
+Small improvement on components
+
 ## [1.2.2] - 09-19-21
 
 Correction on files due to migration to Github

@@ -1,18 +1,9 @@
-//* BBRR Solutions Standard Button
-
-import React from "react";
-import { Link } from "react-router-dom";
-
 import "./StdBtn.css";
 
-export default class Stdbtn extends React.Component {
-  render() {
-    return (
-      <div className="button_container">
-        <Link to={this.props.button_path}>
-          <button className="std_button">{this.props.button_text}</button>
-        </Link>
-      </div>
-    );
-  }
+export default function Stdbtn({ text }) {
+  return (
+    <>
+      <button className="std_button">{text}</button>
+    </>
+  );
 }
