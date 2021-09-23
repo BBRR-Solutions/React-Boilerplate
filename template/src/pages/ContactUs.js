@@ -1,10 +1,10 @@
 import "./Body.css";
 
-import GoToTop from "../assets/scripts/GoToTop";
+import GoToTop from "../assets/helpers/GoToTop";
 
 export default function ContactUs() {
   return (
-    <div className="body">
+    <div className="Body">
       <p>
         Visit our website at{" "}
         <a href="https://www.bbrr.solutions">www.bbrr.solutions</a>

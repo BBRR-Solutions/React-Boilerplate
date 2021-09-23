@@ -1,9 +1,9 @@
-.body {
+.Body {
   width: 85%;
   margin: auto;
   margin-top: 200px;
   min-width: 300px;
 }
-.body > p {
+.Body > p {
   text-align: center;
 }
