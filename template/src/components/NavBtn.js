@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 import "./NavBtn.css";
 
-import Stdbtn from "./StdBtn";
+import StdBtn from "./StdBtn";
 
 export default function NavBtn({ button_path, button_text }) {
   return (
