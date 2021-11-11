@@ -1,9 +1,9 @@
 import "./StdBtn.css";
 
-export default function Stdbtn({ text }) {
+export default function Stdbtn({ Text }) {
   return (
     <>
-      <button className="StdButton">{text}</button>
+      <button className="StdButton">{Text}</button>
     </>
   );
 }

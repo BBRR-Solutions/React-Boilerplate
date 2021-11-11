@@ -4,11 +4,11 @@ import "./NavBtn.css";
 
 import StdBtn from "./StdBtn";
 
-export default function NavBtn({ button_path, button_text }) {
+export default function NavBtn({ ButtonPath, ButtonText }) {
   return (
     <div className="NavButtonContainer">
-      <Link to={button_path}>
-        <StdBtn text={button_text} />
+      <Link to={ButtonPath}>
+        <StdBtn text={ButtonText} />
       </Link>
     </div>
   );
