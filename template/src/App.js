@@ -2,8 +2,8 @@
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
 //* Components imported on the JS File
-import Header from "./blocks/Header";
-import Footer from "./blocks/Footer";
+import Header from "./components/blocks/Header";
+import Footer from "./components/blocks/Footer";
 
 //* Components rendered by react-router-dom
 import Home from "./pages/Home";

@@ -1,6 +1,6 @@
 import "./Nav.css";
 
-import NavBtn from "../components/NavBtn";
+import NavBtn from "../NavBtn";
 
 export default function Nav() {
   return (
