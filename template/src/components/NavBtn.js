@@ -8,7 +8,7 @@ export default function NavBtn({ ButtonPath, ButtonText }) {
   return (
     <div className="NavButtonContainer">
       <Link to={ButtonPath}>
-        <StdBtn text={ButtonText} />
+        <StdBtn Text={ButtonText} />
       </Link>
     </div>
   );

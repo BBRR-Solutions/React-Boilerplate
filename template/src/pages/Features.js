@@ -1,6 +1,6 @@
 import { useSelector, useDispatch } from "react-redux";
 
-import "../Body.css";
+import "./Body.css";
 
 import { Increment } from "../helpers/Actions";
 import { Decrement } from "../helpers/Actions";
