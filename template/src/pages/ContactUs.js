@@ -1,7 +1,5 @@
 import "./Body.css";
 
-import GoToTop from "../assets/helpers/GoToTop";
-
 export default function ContactUs() {
   return (
     <div className="Body">
@@ -21,7 +19,6 @@ export default function ContactUs() {
         Please enjoy our version of create-react-app and share your ideas at{" "}
         <a href="mailto:support@bbrr.solutions">support@bbrr.solutions</a>
       </p>
-      <GoToTop />
     </div>
   );
 }
