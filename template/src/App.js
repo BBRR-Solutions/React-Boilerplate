@@ -8,6 +8,7 @@ import Footer from "./components/blocks/Footer";
 //* Components rendered by react-router-dom
 import Home from "./pages/Home";
 import ContactUs from "./pages/ContactUs";
+import Features from "./pages/Features";
 
 function App() {
   return (
@@ -15,8 +16,9 @@ function App() {
       <div className="App">
         <Header />
         <Switch>
-          <Route path="/" exact component={Home} />
+          <Route path="/Test-Features" component={Features} />
           <Route path="/Contact-us" component={ContactUs} />
+          <Route path="/" exact component={Home} />
         </Switch>
         <Footer />
       </div>
