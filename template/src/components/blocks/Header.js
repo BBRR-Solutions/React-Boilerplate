@@ -1,7 +1,7 @@
-import "./Header.css";
+import "styles/Header.css";
 
-import Nav from "./Nav";
-import CompanyLogo from "../../assets/images/BBRR Solutions without background.png";
+import Nav from "components/Nav";
+import CompanyLogo from "assets/images/BBRR Solutions without background.png";
 
 export default function Header() {
   return (
