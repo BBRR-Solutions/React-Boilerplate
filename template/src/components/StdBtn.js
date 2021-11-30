@@ -1,4 +1,4 @@
-import "./StdBtn.css";
+import "styles/StdBtn.css";
 
 export default function Stdbtn({ Text }) {
   return (

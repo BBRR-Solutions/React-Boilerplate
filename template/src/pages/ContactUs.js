@@ -1,4 +1,4 @@
-import "./Body.css";
+import "styles/Body.css";
 
 export default function ContactUs() {
   return (

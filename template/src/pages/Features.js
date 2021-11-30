@@ -1,9 +1,9 @@
 import { useSelector, useDispatch } from "react-redux";
 
-import "./Body.css";
+import "styles/Body.css";
 
-import { Increment } from "../helpers/Actions";
-import { Decrement } from "../helpers/Actions";
+import { Increment } from "helpers/Actions";
+import { Decrement } from "helpers/Actions";
 
 const Features = () => {
   const CounterState = useSelector((state) => state.Counter);
