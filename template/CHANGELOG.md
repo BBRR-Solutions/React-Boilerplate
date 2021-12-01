@@ -6,6 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [1.3.3] - 10-30-21
+
+Convertion to react component
+Correction of minor bug
 
 ## [1.3.2] - 11-29-21
 
@@ -15,7 +19,6 @@ Change to use of scss files
 ## [1.3.1] - 11-10-21
 
 Correction of minor bug
-
 
 ## [1.3.0] - 11-10-21
 
