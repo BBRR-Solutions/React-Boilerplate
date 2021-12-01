@@ -1,6 +1,6 @@
 import "styles/Body.css";
 
-export default function ContactUs() {
+const ContactUs = () => {
   return (
     <div className="Body">
       <p>
@@ -21,4 +21,6 @@ export default function ContactUs() {
       </p>
     </div>
   );
-}
+};
+
+export default ContactUs;

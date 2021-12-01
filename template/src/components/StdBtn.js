@@ -1,9 +1,11 @@
 import "styles/StdBtn.css";
 
-export default function Stdbtn({ Text }) {
+const StdBtn = ({ Text }) => {
   return (
     <>
       <button className="StdButton">{Text}</button>
     </>
   );
-}
+};
+
+export default StdBtn;

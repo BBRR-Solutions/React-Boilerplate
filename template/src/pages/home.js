@@ -1,6 +1,6 @@
 import "styles/Body.css";
 
-export default function Home() {
+const Home = () => {
   return (
     <div className="Body">
       <p>
@@ -8,4 +8,6 @@ export default function Home() {
       </p>
     </div>
   );
-}
+};
+
+export default Home;

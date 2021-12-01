@@ -1,6 +1,6 @@
 import "styles/Footer.css";
 
-export default function Footer() {
+const Footer = () => {
   return (
     <div className="Footer">
       <p>Contact us at:</p>
@@ -9,4 +9,6 @@ export default function Footer() {
       <p>Creating solutions since 2020</p>
     </div>
   );
-}
+};
+
+export default Footer;

@@ -2,7 +2,7 @@ import "styles/Nav.css";
 
 import NavBtn from "components/NavBtn";
 
-export default function Nav() {
+const Nav = () => {
   return (
     <div className="Nav">
       <NavBtn ButtonText="Home" ButtonPath="/" />
@@ -10,4 +10,6 @@ export default function Nav() {
       <NavBtn ButtonText="Test Features" ButtonPath="/Test-Features" />
     </div>
   );
-}
+};
+
+export default Nav;

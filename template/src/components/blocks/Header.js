@@ -3,7 +3,7 @@ import "styles/Header.css";
 import Nav from "components/Nav";
 import CompanyLogo from "assets/images/BBRR Solutions without background.png";
 
-export default function Header() {
+const Header = () => {
   return (
     <div className="Header">
       <div className="HeaderItem">
@@ -14,4 +14,6 @@ export default function Header() {
       <Nav />
     </div>
   );
-}
+};
+
+export default Header;

@@ -4,7 +4,7 @@ import "styles/NavBtn.css";
 
 import StdBtn from "components/StdBtn";
 
-export default function NavBtn({ ButtonPath, ButtonText }) {
+const NavBtn = ({ ButtonPath, ButtonText }) => {
   return (
     <div className="NavButtonContainer">
       <Link to={ButtonPath}>
@@ -12,4 +12,6 @@ export default function NavBtn({ ButtonPath, ButtonText }) {
       </Link>
     </div>
   );
-}
+};
+
+export default NavBtn;
